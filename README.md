@@ -14,9 +14,6 @@ A simple message board app where users can input an event message and a group of
 
 1.  **Clone this git repository:**
 
-  1.1 Copy the repo remote address  https://github.com/tfmertz/MessageBoard from the bottom right side under **HTTPS clone URL**
-
-  1.2 Run a `git clone https://github.com/tfmertz/MessageBoard` in a terminal window
 
 2.  **Use Composer to install required dependencies in the composer.json file:**
 
